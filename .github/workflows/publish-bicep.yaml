@@ -1,4 +1,4 @@
-# ------------------------------------------------------------
+# --GOPROXY=https://proxy.golang.org/cached-only go mod download golang.org/x/tools@v0.1.0---------------------------------------------------------
 # Copyright 2023 The Radius Authors.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
